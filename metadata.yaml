@@ -1,0 +1,27 @@
+_repo: The-Vampire-CatA-Play-in-one-act-from-the-Japanese-legend-of-Nabeshima-cat_40120
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40120-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Etten, Gerard Van
+    alias: Van Etten, Gerard
+    gutenberg_agent_id: '40423'
+    url: http://www.gutenberg.org/2009/agents/40423
+description: ''
+gutenberg_issued: '2012-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40120'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Japan -- History -- 1185-1600 -- Drama'
+- !lcsh 'Vampires -- Drama'
+title: "The Vampire Cat\r\nA Play in one act from the Japanese legend of the Nabeshima\
+  \ cat"
+url: http://www.gutenberg.org/ebooks/40120
