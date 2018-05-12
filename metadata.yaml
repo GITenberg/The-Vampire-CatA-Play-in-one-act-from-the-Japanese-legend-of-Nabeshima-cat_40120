@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40423'
     url: http://www.gutenberg.org/2009/agents/40423
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40120#The-Vampire-CatA-Play-in-one-act-from-the-Japanese-legend-of-Nabeshima-cat
 gutenberg_issued: '2012-07-01'
 gutenberg_type: Text
 identifiers:
